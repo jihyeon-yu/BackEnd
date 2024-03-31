@@ -33,7 +33,9 @@ EL의 주요 기능은 다음과 같습니다:
 <%= request.getParameter("username") %>
 ```
 **EL 변환**:
-`${param.username}`
+```
+${param.username}
+```
 
 #### 예제 2: 조건문
 **JSP 구문**:
